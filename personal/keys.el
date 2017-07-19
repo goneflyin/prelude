@@ -6,7 +6,7 @@
 
 ;;; Turn off guru mode -- need to get back to being comfortable with
 ;;; instinctual keybindings before trying to change!
-(setq prelude-guru nil)
+;;(setq prelude-guru nil)
 
 ;;; Disable the C-right/left keybindings that are stolen by paredit
 ;;; (and continued by smartparens!)
